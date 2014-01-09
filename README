@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4825
+
+This colorscheme uses 256 colors in terminal mode and is similar to colorscheme luinnar.vim in gui mode.
+
+Snapshots:
+terminal mode: https://github.com/lxmzhv/vim/blob/master/screenshots/vim_elda_term.png
+gui mode: https://github.com/lxmzhv/vim/blob/master/screenshots/vim_elda_gui.png
+
+Suggestions are welcome here: https://github.com/lxmzhv/vim/tree/master/colors
